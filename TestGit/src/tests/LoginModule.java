@@ -6,6 +6,7 @@ public class LoginModule {
 		//testing
 		//Testing project for demo purpose
 		//Page1
+		//Felicity
 		System.out.println("Welcome to my page. ");
 		System.out.println("Lion");
 		System.out.println("Welcome to my page. Have a good day.");
